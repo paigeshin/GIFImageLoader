@@ -1,6 +1,6 @@
 # GIFImageLoader
 
-```GIF Image Loader
+```swift
 
 import SwiftUI
 import WebKit
